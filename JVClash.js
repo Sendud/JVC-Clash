@@ -1,25 +1,18 @@
 // ==UserScript==
-// @name        JVCSticker++
-// @namespace   JVCSticker++
-// @include     http://www.jeuxvideo.com/forums/*
-// @include     https://www.jeuxvideo.com/forums/*
-// @version     1.5.20
-// @grant       GM_addStyle
-// @updateURL   https://ticki84.github.io/JVCSticker++.meta.js
-// @downloadURL https://ticki84.github.io/JVCSticker++.user.js
-// @require     http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
-// @require     https://ticki84.github.io/jquery.modal.min.js
-// @connect     github.io
-// @grant       GM_xmlhttpRequest
-// @grant       GM_getValue
-// @grant       GM_setValue
-// @grant       GM_listValues
-// @grant       GM_deleteValue
-// @icon        http://jv.stkr.fr/p/1kki
-// @author      Ticki84
-// @copyright   2016+, Ticki84
-// @noframes
+// @name        JVC Clash
+// @namespace   Nique ta mere
+// @version      0.9
+// @description  JVC Clash 0.9
+// @author       Singles
+// @include     http://*.jeuxvideo.com/*
+// @include     http://*.forumjv.com/*
+// @include     https://*.jeuxvideo.com/*
+// @include     https://*.forumjv.com/*
+// @require    http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
+// @grant        none
 // ==/UserScript==
+
+
 
 var mots=["Astalavista", "Cordialement", "Mes salutations", "toboggan", "dinosaurésque", "coupin", "gentille personne","truculent","être formidable"];
 var insultes=["va te faire enculer", "nique ta mère", "suce ma bite", "ta mère", "fils de pute", "fils", "chienne", "enculé","pute"]
